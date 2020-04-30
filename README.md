@@ -16,10 +16,12 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 
--Configuration
-Flutter SDK Version: Flutter (Channel stable, v1.12.13+hotfix.9)
-Android SDK Version: Android SDK version 29.0.3
-Android Studio Version: version 3.6
+
+Configuration and Version
+-It can be run in version control
+-Flutter SDK Version: Flutter (Channel stable, v1.12.13+hotfix.9)
+-Android SDK Version: Android SDK version 29.0.3
+-Android Studio Version: version 3.6
 
 
 
